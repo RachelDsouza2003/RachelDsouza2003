@@ -1,5 +1,7 @@
-## Hi there 👋
-
+👋 Hi, I'm Rachel Grace Dsouza (@RachelDsouza2003)
+💻 Passionate about web development
+📘 Studying Computer Science
+📬 Reach out to me at: rachel.grace1504@gmail.com
 <!--
 **RachelDsouza2003/RachelDsouza2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
